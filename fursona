@@ -1,0 +1,19 @@
+{
+    "sonas": [
+        {
+            "name": "Doraii",
+            "pronouns": "He/They",
+            "gender": "Demiboy",
+            "species": "Furred Dragon",
+            "description": "Anxious beginner in software development, loves sweet snacks and Takis. Giant PC nerd!",
+            "avatar": "https://yviskos.github.io/gallery/dorpfp.jpg",
+            "avatarAlt": "Doraii smiling.",
+            "age": 15,
+            "colors": [
+                "#ec68cb",
+                "#f9ac04",
+                "#ffffff"
+            ]
+        }
+    ]
+}
